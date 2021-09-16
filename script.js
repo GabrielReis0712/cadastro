@@ -98,7 +98,7 @@ function cadastrar(){
         msgError.innerHTML = ''
           
         setTimeout(()=>{
-         window.location.href='https://cdpn.io/zeibarg1/debug/MWoOZOg/yYryLaqmmJZM'
+         window.location.href='https://zeibarg.github.io/calculadoralogada/'
         }, 1000)
         
       }
